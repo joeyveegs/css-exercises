@@ -1,19 +1,18 @@
-.odd-numbered {
+.odd {
     background-color:#eb75a0;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-#second {
+#two {
     color: #2141a3;
     font-size: 36px;
 }
 
-.odd-numbered#third {
+.three-four {
     font-size: 24px;
 }
 
-#fourth {
+#four {
     background-color: #9ff07f;
-    font-size: 24px;
     font-weight: bold;
 }
